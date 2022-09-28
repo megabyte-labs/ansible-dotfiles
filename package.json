@@ -125,7 +125,10 @@
     },
     "slug": "dotfiles",
     "subgroup": "role",
-    "title": "Really, Really Good Dotfiles"
+    "title": "Really, Really Good Dotfiles",
+    "github_id": "R_kgDOIFR7KA",
+    "gitlab_project_id": "39776367",
+    "gitlab_group_id": "12261670"
   },
   "changelog": {
     "displayTypes": [
